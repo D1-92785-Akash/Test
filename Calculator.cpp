@@ -5,6 +5,7 @@ int menuList() {
     int choice;
     cout<<"0 - Exit"<<endl;
     cout<<"1 - ADD"<<endl;
+    cout<<"2 - MUL"<<endl;
     cout<<"Enter your choice : "<<endl;
     cin>>choice;
     return choice;
